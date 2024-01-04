@@ -1,0 +1,16 @@
+C:\Users\vakel\OneDrive\Masaüstü\KombP\bin\Debug\net7.0-windows\KombP.exe
+C:\Users\vakel\OneDrive\Masaüstü\KombP\bin\Debug\net7.0-windows\KombP.deps.json
+C:\Users\vakel\OneDrive\Masaüstü\KombP\bin\Debug\net7.0-windows\KombP.runtimeconfig.json
+C:\Users\vakel\OneDrive\Masaüstü\KombP\bin\Debug\net7.0-windows\KombP.dll
+C:\Users\vakel\OneDrive\Masaüstü\KombP\bin\Debug\net7.0-windows\KombP.pdb
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.Form1.resources
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.csproj.GenerateResource.cache
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.AssemblyInfoInputs.cache
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.AssemblyInfo.cs
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.csproj.CoreCompileInputs.cache
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.dll
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\refint\KombP.dll
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.pdb
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\KombP.genruntimeconfig.cache
+C:\Users\vakel\OneDrive\Masaüstü\KombP\obj\Debug\net7.0-windows\ref\KombP.dll
